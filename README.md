@@ -1,5 +1,5 @@
 # Code-Quiz
-1. HTML:
+1. HTML Index:
 - adding a title - Code-Quiz
 - adding a reference to a css document  - using rel
 - creating a css document under assets css folder (empty for now)
@@ -13,7 +13,17 @@
 -  Creating a new div (feedback) to indentify if the answer is right or wrong 
 - Creating 2 empty js files to link to the html (Point to an external JavaScript file - script src)
 
-2. Css
+2. HTML highscore 
+ - Use html:5 to add the html frame
+ - Change the title to Highscores
+ - Adding a reference to a css document  - using rel
+ - Creating a div class - wrapper
+ - Creating ordered list 
+ - Linking to index html 
+ - Creating a button 
+ - Linking to an external JavaScript file - script src
+
+3. Css
 - Adding a font style and size to a body elements
 - Adding a style to an a element (hyperlink), as well as a color to a hover
 - Styling a button with display function - allows to set a width and height on the element where the top and bottom margins/paddings are respected, does not add a line-break after the element
@@ -24,7 +34,7 @@
 - Using a list syle 
 - Adding style to each class
 
-3. Javascript (logic)
+4. Javascript (logic)
 - Declaring variable to see the flow of the quiz 
 - Referencing DOM elements <var> in html (getElementById)
 - Calling a function to start the quiz: hiding the start screen by using <var> in html (getElementById) and Element.setAttribute() , unhiding questions - using removeAttribute(), setting the time interval - 1000 is 1 sec , display the starting time - timerEl.textContent
@@ -49,13 +59,13 @@
 - Redirect to a score page 
 - Returning the value of the function, will prevent the keypress event from being handled further.
 
-4. Javascript (scores)
+5. Javascript (scores)
 - From the localstorage pull the scores or set an array to an empty one
 - Display the scores in descending order
 - Creating li tags for each score 
 - Run the function 
 
-5. Questions, choices and answers - javascript
+6. Questions, choices and answers - javascript
 - Copy the questions and answers from the mock up 
 - use var 
 
