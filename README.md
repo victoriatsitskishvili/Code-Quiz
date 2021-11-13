@@ -51,4 +51,11 @@
 
 4. Javascript (scores)
 - From the localstorage pull the scores or set an array to an empty one
--  
+- Display the scores in descending order
+- Creating li tags for each score 
+- Run the function 
+
+5. Questions, choices and answers - javascript
+- Copy the questions and answers from the mock up 
+- use var 
+
