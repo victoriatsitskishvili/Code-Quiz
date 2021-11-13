@@ -69,9 +69,9 @@
 - Copy the questions and answers from the mock up 
 - use var 
 
-![Screenshot of a start screen] () 
-![Screenshot of a question screen] ()
-![Screenshot of your final score] ()
-![Screenshot of a list of all scores] ()
+![Screenshot of a start screen] (https://github.com/victoriatsitskishvili/Code-Quiz/blob/42d82d094bb11ed882f16e75202552488e9928b0/assets/images/start%20screen.png) 
+![Screenshot of a question screen] (https://github.com/victoriatsitskishvili/Code-Quiz/blob/42d82d094bb11ed882f16e75202552488e9928b0/assets/images/question.png)
+![Screenshot of your final score] (https://github.com/victoriatsitskishvili/Code-Quiz/blob/42d82d094bb11ed882f16e75202552488e9928b0/assets/images/final%20score.png)
+![Screenshot of a list of all scores] (https://github.com/victoriatsitskishvili/Code-Quiz/blob/42d82d094bb11ed882f16e75202552488e9928b0/assets/images/list%20of%20scores.png)
 
-[Link to Git] ()
+[Link to Git] (https://victoriatsitskishvili.github.io/Code-Quiz/)
