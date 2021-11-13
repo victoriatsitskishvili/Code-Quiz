@@ -69,3 +69,9 @@
 - Copy the questions and answers from the mock up 
 - use var 
 
+![Screenshot of a start screen] () 
+![Screenshot of a question screen] ()
+![Screenshot of your final score] ()
+![Screenshot of a list of all scores] ()
+
+[Link to Git] ()
